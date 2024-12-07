@@ -13,11 +13,9 @@
 - 📄 My Certifications [My Certifications](https://drive.google.com/drive/folders/1h0-tF0TJ63Pkz9nN6R_CrdRgD-qOD3_C?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
 <a href="https://linkedin.com/in/paboda-siriwardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paboda-siriwardhana" height="30" width="40" /></a>
+<a href="https://fb.com/paboda.siriwardana.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paboda.siriwardana.7" height="30" width="40" /></a>
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="paboda-siriwardhana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/paboda-siriwardhana?trk=profile-badge">Paboda Siriwardhana</a></div>
               
 
 <h3 align="left">Languages and Tools:</h3>
