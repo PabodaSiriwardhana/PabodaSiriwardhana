@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **pabodasiriwardana@gmail.com**
 
-- 📄 My CV [My CV](https://drive.google.com/drive/folders/1bfBT020hfeBko15J6hWU8M7D5tMT7HDo?usp=sharing)
-
 - 📄 My Certifications [My Certifications](https://drive.google.com/drive/folders/1h0-tF0TJ63Pkz9nN6R_CrdRgD-qOD3_C?usp=sharing)
               
 
